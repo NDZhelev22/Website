@@ -7,6 +7,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alpha</title>
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>/*Тук добавям background-color на самия сайт*/
+        *{
+       margin:0;
+       padding: 0;
+    }
+    .background-image{
+       background-image: url('./Images/background-color.png');
+       background-size: cover;
+       background-repeat: no-repeat;
+       
+       height: 100vh;
+    
+    }
+    </style>
 </head>
 <body>
     <nav class="navbar">
@@ -15,7 +30,34 @@
         <a href="html/about.html">About us</a>
         <a href="html/contact.html">Contact</a>
     </nav>
-    <h1 align="center">Добре дошли в света на роботиката!</h1>
-    <footer>Всички права, запазени</footer>
+    
+    <div class="background-image"></div>
+    <footer> 
+        <div class="footerContainer">
+        <div class="socialIcons">
+            <a href=" "><i class="fa-brands fa-instagram"></i></a>
+            <a href=" "><i class="fa-brands fa-facebook"></i></a>
+            <a href=" "><i class="fa-brands fa-youtube"></i></a>
+        </div>
+        <div class="footerNav">
+          <ul>
+            <li>
+                <a href="">Updates</a>
+                <a href="">News</a>
+               
+            </li>
+        </ul>
+        </div>
+        <div class="footerBottom">
+            <p>Copyright &copy; 2023;</p>
+        </div>
+        </div>
+    </footer>
 </body>
+
+
+
+
+
+
 </html>
