@@ -1,3 +1,4 @@
+
 * {
     padding: 0;
     margin: 0;
@@ -7,7 +8,7 @@ body {
     height: 300vh;
 }
  
-.navbar {
+.navbar {/*Navbar options*/
     width: 100vw;
     height: 10vh;
     background-color: rgb(106, 114, 108);
@@ -36,12 +37,12 @@ footer {
 background-color:slategrey;
 
 }
-.footerContainer {/* Тук добавям цвят на самият footer */
+.footerContainer {/* add footer  */
     width: 100%;
     padding: 70px 30px 20px;
 
 }
-.socialIcons{/* Оформление на самите икони */
+.socialIcons{/* icons edit */
     display:flex;
     justify-content: center;
 
@@ -58,7 +59,7 @@ background-color:slategrey;
     color:black;
     opacity: 0.9;
 }
-.footerNav{/* ще центрираме фоотер нава и ще му зададем цвят */
+.footerNav{/* center and add color  */
     margin:30px 0;
 }
 .footerNav ul{
@@ -75,7 +76,7 @@ background-color:slategrey;
 .footerNav ul li a:hover{
     opacity: 1;
 }
-.footerBottom{
+.footerBottom{/*customise bottom footer*/
     background-color: #000;
     padding:  20px;
     text-align: center;
