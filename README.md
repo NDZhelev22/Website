@@ -8,7 +8,7 @@ Welcome our project! This project is a web-based application built using HTML an
 * [Futures](#features)
 
 ## Contributing
-The people that made this possible: Petko
+The people that made this possible: Petko Ivanov, Daniela Stoilova, Egor Grebennikov, Nikolay Zhelev
 
 ## Installiation
 * Clone the repository: git clone [https://github.com/NDZhelev22/project1.git]
@@ -20,5 +20,6 @@ The people that made this possible: Petko
 While using it, if you encounter any bugs or other problems, please contact us on NDZhelev22@codingburgas.bg
 
 ## Futures
-
-
+* Easy to understand
+* Useful information
+* Simple design
