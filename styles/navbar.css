@@ -1,0 +1,32 @@
+.navbar {/*Navbar settings*/
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(106, 114, 108);
+    position: sticky;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ 
+    padding-left: 10px;
+ 
+    border: 1px solid #fff;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+ 
+.navbar > a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.logo{
+    position: left;
+    height: auto;
+    left: 0;
+    width: 100px;
+    
+    }
