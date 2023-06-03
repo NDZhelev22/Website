@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" type="text/css" href="styles/footer.css">
     <link rel="stylesheet" type="text/css" href="styles/navbar.css">
+    <link rel="stylesheet" type="text/css" href="./styles/slideshow.css">
 </head>
 <body>
     <nav class="navbar">
@@ -20,7 +21,30 @@
         <a href="html/contacts.html">Contact</a>
     </nav>
     
-    <div class="background-image"></div>
+   <div class="slidershow middle">
+
+    <div class="slides">
+    <input type="radio" name="r" id="r1" checked>
+    <input type="radio" name="r" id="r2">
+    <input type="radio" name="r" id="r3">
+        <div class="slide s1">
+            <img src="./Images/slideshow1.png" alt="">
+        </div>
+        <div class="slide">
+            <img src="./Images/slideshow2.jpg" alt="">
+        </div>
+        <div class="slide">
+            <img src="./Images/slideshow3.png" alt="">
+        </div>
+    </div>
+
+    <div class="navigation">
+        <label for="r1" class="bar"></label>
+        <label for="r2" class="bar"></label>
+        <label for="r3" class="bar"></label>
+    </div>
+   </div>
+
     <footer> 
         <div class="footerContainer">
         <div class="socialIcons"><!--Link Icons-->
