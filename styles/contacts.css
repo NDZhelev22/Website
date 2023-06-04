@@ -1,68 +1,67 @@
-/* @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap'); */
 body{
-    background-color: aqua;
+    background-color: aqua; /*background color*/
 }
 .Egor{
-  background-color: orange;
-  border-style: double;
-  font-family: 'PT Sans Narrow', sans-serif;
-  margin: 5px;
-  margin-bottom: 50px;
-  width: 300px;
-  padding: 20px;
-  line-height: 20px;
-  color:  black;
-  position: relative;
-  font-size: large;
+  background-color: orange;/*color of text box*/
+  border-style: double;/*border of text box*/
+  font-family: 'PT Sans Narrow', sans-serif;/*font of text*/
+  margin: 5px;/*margin*/
+  margin-bottom: 50px;/*margin bottom*/
+  width: 300px;/*width of text box*/
+  padding: 20px;/*padding of text box*/
+  line-height: 20px;/*line-height*/
+  color:  black;/*color of text*/
+  position: relative;/*position*/
+  font-size: large;/*size*/
 }
 .Daniela{
-    background-color: orange;
-    border-style: double;
-    font-family: 'PT Sans Narrow', sans-serif;
-    margin: 5px;
-    margin-bottom: 50px;
-    width: 300px;
-    padding: 20px;
-    line-height: 20px;
-    color:  black;
-    position: relative;
-    font-size: large;
+  background-color: orange;/*color of text box*/
+  border-style: double;/*border of text box*/
+  font-family: 'PT Sans Narrow', sans-serif;/*font of text*/
+  margin: 5px;/*margin*/
+  margin-bottom: 50px;/*margin bottom*/
+  width: 300px;/*width of text box*/
+  padding: 20px;/*padding of text box*/
+  line-height: 20px;/*line-height*/
+  color:  black;/*color of text*/
+  position: relative;/*position*/
+  font-size: large;/*size*/
   }
   .Petko{
-    background-color: orange;
-    border-style: double;
-    font-family: 'PT Sans Narrow', sans-serif;
-    margin: 5px;
-    margin-bottom: 50px;
-    width: 300px;
-    padding: 20px;
-    line-height: 20px;
-    color:  black;
-    position: relative;
-    font-size: large;
+    background-color: orange;/*color of text box*/
+    border-style: double;/*border of text box*/
+    font-family: 'PT Sans Narrow', sans-serif;/*font of text*/
+    margin: 5px;/*margin*/
+    margin-bottom: 50px;/*margin bottom*/
+    width: 300px;/*width of text box*/
+    padding: 20px;/*padding of text box*/
+    line-height: 20px;/*line-height*/
+    color:  black;/*color of text*/
+    position: relative;/*position*/
+    font-size: large;/*size*/
   }
   .Nicolay{
-    background-color: orange;
-    font-family: 'PT Sans Narrow', sans-serif;
-    border-style: double;
-    margin: 5px;
-    margin-bottom: 50px;
-    width: 300px;
-    padding: 20px;
-    line-height: 20px;
-    color:  black;
-    position: relative;
-    font-size: large;
+    background-color: orange;/*color of text box*/
+    border-style: double;/*border of text box*/
+    font-family: 'PT Sans Narrow', sans-serif;/*font of text*/
+    margin: 5px;/*margin*/
+    margin-bottom: 50px;/*margin bottom*/
+    width: 300px;/*width of text box*/
+    padding: 20px;/*padding of text box*/
+    line-height: 20px;/*line-height*/
+    color:  black;/*color of text*/
+    position: relative;/*position*/
+    font-size: large;/*size*/
   }
-  .team{
-    display:flex;
-    text-align: center;
-    margin-top: 100px;
-    width: auto;
-    justify-content: center;
-    flex-wrap: wrap;
+  .team{;/*position of text boxes*/
+    display:flex; /*display*/
+    text-align: center;/*position*/
+    margin-top: 100px;/*margin top*/
+    width: auto;/*width*/
+    justify-content: center;/*justify-content*/
+    flex-wrap: wrap;/*flex-wrap*/
 }
-.contacts{
-    text-align: center;
-    font-family: 'Geologica', sans-serif;
+.contacts{/*Title*/
+    text-align: center;/*position*/
+    font-family: 'Geologica', sans-serif;/*font*/
 }
