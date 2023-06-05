@@ -8,7 +8,10 @@ Welcome our project! This project is a web-based application built using HTML an
 * [Futures](#features)
 
 ## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114235235031318548/image-removebg-preview.png" width="70" height="70"> Contributing
-The people that made this possible: Petko Ivanov, Daniela Stoilova, Egor Grebennikov, Nikolay Zhelev
+* Nikolay Zhelev - Scrum Trainer - NDZhelev22@codingburgas.bg
+* Petko Ivanov - Developer - Psivanov22@codingburgas.bg
+* Egor Grebennikov - Developer - Eygrebennikov22@codingburgas.bg
+* Daniela Stoilova - Designer - Ddstoilova22@codingburgas.bg
 
 ## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114227612479402045/download-1915753_960_720.webp" width="50" height="50"> Installiation
 * Clone the repository: git clone [https://github.com/NDZhelev22/project1.git]
