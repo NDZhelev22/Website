@@ -4,3 +4,10 @@ body {
     background-color: #a4bcd4;
     
 }
+.description{
+    margin-top: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color:rgb(64, 64, 64);
+    font-family: 'Rubik', sans-serif;
+}
