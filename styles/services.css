@@ -1,0 +1,34 @@
+body{
+    background-color: bisque;
+}
+.text1{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.robotic_arms{
+    margin-right: 60%;
+    margin-top: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.CNC{
+    margin-right: 60%;
+    margin-top: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.welding{
+    margin-right: 60%;
+    margin-top: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.assembly{
+    margin-right: 60%;
+    margin-top: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.material{
+    margin-right: 60%;
+    margin-top: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
