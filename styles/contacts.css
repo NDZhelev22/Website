@@ -65,3 +65,16 @@ body{
     text-align: center;/*position*/
     font-family: 'Geologica', sans-serif;/*font*/
 }
+.form{;
+  background-color:aquamarine;/*color of text box*/
+    border-style: double;/*border of text box*/
+    font-family: 'PT Sans Narrow', sans-serif;/*font of text*/
+    margin: 5px;/*margin*/
+    margin-bottom: 50px;/*margin bottom*/
+    width: 300px;/*width of text box*/
+    padding: 20px;/*padding of text box*/
+    line-height: 20px;/*line-height*/
+    color:  black;/*color of text*/
+    position: relative;/*position*/
+    font-size: large;/*size*/
+}
