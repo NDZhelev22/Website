@@ -1,13 +1,14 @@
 body {
-    height: 150vh;
+    height: 10vh;
     background-color: #a4bcd4;
     padding: 0;
     margin: 0;
 
 }
 .slidershow{
-    width: 700px;
-    height: 400px;
+    margin-top: 10px;
+    width: 1200px;
+    height: 650px;
     overflow: hidden;
 
 }
